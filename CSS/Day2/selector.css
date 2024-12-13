@@ -1,0 +1,33 @@
+/* element selector */
+p{
+    background-color: red;
+    color: yellow;
+}
+
+/* element selector */
+h1{
+    color: pink;
+    font-size: 20px;
+}
+/* id selector */
+#demo{
+    background-color: purple;
+}
+
+/* class selector */
+.c{
+    background-color: brown;
+}
+
+/* universal selector */
+ *{
+    background-color: red;
+} */
+
+/* Grouping selector */
+#demo , h1 , .c{
+    background-color: yellowgreen;
+}
+
+
+

@@ -1,0 +1,26 @@
+/* descendent selector */
+/* div h1{
+    background-color: red;
+} */
+
+/* child selector */
+/* div>h1{
+    color: yellow;
+    background-color: purple;
+} */
+
+
+/* adjacent selector */
+
+/* div+h1{
+    background-color: chartreuse;
+} */
+
+
+/* general sibling selector */
+
+div~h1{
+    background-color: crimson;
+    color: darkgreen;
+}
+
