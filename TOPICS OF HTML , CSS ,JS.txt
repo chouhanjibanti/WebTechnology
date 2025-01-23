@@ -1,0 +1,62 @@
+TOPICS OF HTML , CSS ,JS
+
+// HTML // 
+
+1. HEADING TAG
+2. PARAGRAPH TAG
+3. FORMATTING TAG  -> b, strong , u , i , em , strike
+4. HTML ATTRIBUTE -> additional information , -> ID , class, Style
+5. GROUPING ELEMENT -> DIV , SPAN
+6. HTML LIST -> Ordered List(ol) , Unordered List(ul)  , Description List or Definition List (dl)
+7. IMAGE TAG
+8. ANCHOR TAG
+9. TABLES -> CELLPADING , CELLSPACING , ROW , COL 
+10. FORMS 
+11. HTML MEDIA 
+12. IFRAME
+
+
+// CSS //
+
+1. TYPES OF CSS OR DIFFERENT WAYS OF ADDING CSS 
+2. COMBINATORS SELECTOR
+
+   descendant selector (space) 
+   child selector (>) 
+   adjacent sibling selector (+) 
+   general sibling selector (~) 
+
+3. POSITION PROPERTY
+     static , relative , absoulte , fixed , sticy
+4. CSS BOX MODEL 
+5. PROPERTY -> TEXT PROPERTY , FONT PROPERTY , BACKGROUND PROPERTY 
+6. FLEXBOX 
+
+
+
+// JAVASCRIPT //
+
+-> JAVASCRIPT VAR , LET , CONST
+-> JAVASCRIPT DATATYPE
+-> JAVASCRIPT LOOP
+-> JAVASCRIOT STATEMENT
+-> FUNCTIONS IN JAVASCRIPT 
+ 1. FUNCTTION DECLARATION
+ 2. FUNCTION EXPRESSION
+ 3. ARROW FUNCTION
+ 4. HIGER ORDER FUNCTION
+ 5. CALLBACK FUNCTION
+-> DOM IN JAVASCRIPT 
+-> PROMISES
+-> ASYNC / AWAIT
+-> SETTIMEOUT/SETINTERVAL
+-> ES 6 UPDATE 
+ 1. ARROW FUNCTION
+ 2. LET AND CONST 
+ 3. TEMPLATE LITERALS
+ 4. PROMISES 
+ 5. MODULES -> IMPORT/ EXPORT
+-> HOISTING
+
+
+
